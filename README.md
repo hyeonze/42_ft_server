@@ -1,4 +1,4 @@
-# 42_ft_server
+# 42_ft_server 
 
 ## 학습목표
 Docker에 대해 이해하고 Wordepress, phpMyAdmin 및 SQL 데이터베이스를 포함한 여러 서비스를 실행할 완전한 웹 서버를 설치한다.
